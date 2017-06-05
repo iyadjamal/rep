@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/iyadjamal/.android/build-cache/e46077fd99d3407cc6f040fcd1c21cbe5380ae96/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/iyadjamal/Desktop/cardgame/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_b458afb8d9c8b9a2116ffb8afd0ad1d23840f56c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iyadjamal/.android/build-cache/19e34f000491b144d5693bcebcd555d70d7f7e5e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/iyadjamal/Desktop/cardgame/app/build/intermediates/pre-dexed/debug/classes_631f7fa3112534c640263c9dcd339b73404cad06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iyadjamal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/iyadjamal/Desktop/cardgame/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_4211d08a44978689fa273d2cf56bdf1381ee7fab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iyadjamal/.android/build-cache/a9ece398f6a775febcb67f56db32be6c97ad920a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/iyadjamal/Desktop/cardgame/app/build/intermediates/pre-dexed/debug/classes_9ee928f4fdb9425c36f32516fb8e939f4dd4326a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iyadjamal/.android/build-cache/e46077fd99d3407cc6f040fcd1c21cbe5380ae96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/iyadjamal/Desktop/cardgame/app/build/intermediates/pre-dexed/debug/classes_0c234f8f12691a0b740b962431e455ccb4d11971.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iyadjamal/.android/build-cache/53b2b92815b1bd04827e34eb4feb72c70d05f815/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/iyadjamal/Desktop/cardgame/app/build/intermediates/pre-dexed/debug/classes_337bb067e07b91126e653e74071f043af8052b90.jar" />
+    </item>
+
+</items>
